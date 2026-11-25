@@ -10,7 +10,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parents[1]
 SIZE = (960, 480)
-BG = '#0d1117'
+BG = '#000000'
 INK = '#e8e0ce'
 LINE = '#9ba58e'
 FAINT = '#707b68'
@@ -134,10 +134,10 @@ def main():
         frames.extend(im.quantize(palette=palette,dither=Image.Dither.NONE) for im in source)
         frames.extend(flip_frames(source[-1],dest[0],palette))
     out=ROOT/'assets';out.mkdir(exist_ok=True)
-    raw_a[0].save(out/'cassette-still.png')
-    frames[0].save(out/'cassette.gif',save_all=True,append_images=frames[1:],
+    raw_a[0].save(out/'cassette-dark-still.png')
+    frames[0].save(out/'cassette-dark.gif',save_all=True,append_images=frames[1:],
                    duration=80,loop=0,optimize=True,disposal=2)
-    print(f'{len(frames)} frames; {len(frames)*80/1000:.2f}s loop; {(out/"cassette.gif").stat().st_size:,} bytes')
+    print(f'{len(frames)} frames; {len(frames)*80/1000:.2f}s loop; {(out/"cassette-dark.gif").stat().st_size:,} bytes')
 
 
 if __name__=='__main__':

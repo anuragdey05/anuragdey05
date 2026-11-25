@@ -2,8 +2,8 @@ A creative working at the intersection of web, finance, engineering, and AI.
 
 <a href="https://open.spotify.com/playlist/6ehfQCEAurnAGWjCpe0Zpl">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/cassette-still.png" />
-    <img src="./assets/cassette.gif" width="680" alt="An animated ASCII cassette with turning reels, gently flipping between Side A and Side B. Click to open my Spotify playlist." />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/cassette-dark-still.png" />
+    <img src="./assets/cassette-dark.gif" width="680" alt="An animated ASCII cassette with turning reels, gently flipping between Side A and Side B. Click to open my Spotify playlist." />
   </picture>
 </a>
 
