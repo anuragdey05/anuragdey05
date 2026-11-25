@@ -1,0 +1,21 @@
+README.md
+  s_4094f26e46cc77::t_55e38f49c942d1 1,3,5-6,10,12,14-18
+tools/render_ascii_tapes.py
+  s_4094f26e46cc77::t_2cb91fc4a22a2a 1,3-4,12-115,122-125,127-140
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "73c8bb060dc6f239402abf2d55eeef981651038f",
+  "prompts": {},
+  "sessions": {
+    "s_4094f26e46cc77": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "01a1f322-0341-7432-8100-d03d2acd5a39",
+        "model": "unknown"
+      },
+      "human_author": "Anurag Dey <173794492+anuragdey05@users.noreply.github.com>"
+    }
+  }
+}
