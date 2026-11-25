@@ -1,0 +1,25 @@
+tools/render_ascii_tapes.py
+  s_b310275689e6c3::t_ae955da250cdc4 1-107
+CREATIVE.md
+  s_b310275689e6c3::t_cea8da1e70549b 1-35
+README.md
+  s_b310275689e6c3::t_2552afed51d30b 3,5-10,13,16,18,20-21,23,25-27,31-33
+TECHNICAL.md
+  s_b310275689e6c3::t_7ec207ab51e3d6 1-43
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e686e58271dc968b075b8e254c9488bb85de1e84",
+  "prompts": {},
+  "sessions": {
+    "s_b310275689e6c3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1f322-0341-7432-8100-d03d2acd5a39",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Anurag Dey <173794492+anuragdey05@users.noreply.github.com>"
+    }
+  }
+}
