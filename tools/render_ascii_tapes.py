@@ -10,11 +10,11 @@ from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parents[1]
 SIZE = (960, 480)
-BG = '#eee8d8'
-INK = '#34382f'
-LINE = '#666e5b'
-FAINT = '#aaa693'
-ACCENT = '#a44f36'
+BG = '#0d1117'
+INK = '#e8e0ce'
+LINE = '#9ba58e'
+FAINT = '#707b68'
+ACCENT = '#e5a06f'
 STEP_X, STEP_Y = 9, 13
 HOLD = 64
 FLIP = 10
