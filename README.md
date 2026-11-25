@@ -1,33 +1,18 @@
-# Anurag Dey
+A creative working at the intersection of web, finance, engineering, and AI.
 
-I build web applications, interfaces, and machine learning projects.
-
-<a href="./CREATIVE.md">
+<a href="https://open.spotify.com/playlist/6ehfQCEAurnAGWjCpe0Zpl">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/side-a-still.png" />
-    <img src="./assets/side-a.gif" width="760" alt="Side A: creative work. An animated ASCII cassette cycles through Ishara Studio and airn't. Open the creative side." />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/cassette-still.png" />
+    <img src="./assets/cassette.gif" width="680" alt="An animated ASCII cassette with turning reels, gently flipping between Side A and Side B. Click to open my Spotify playlist." />
   </picture>
 </a>
 
-<pre>
-  [ <a href="./CREATIVE.md">SIDE A / CREATIVE</a> ]       [ <a href="./TECHNICAL.md">FLIP TO SIDE B / TECHNICAL</a> ]
-</pre>
+<sub><a href="https://open.spotify.com/playlist/6ehfQCEAurnAGWjCpe0Zpl">A tape for the background.</a></sub>
 
-Two sides of the same work. Open a side for the notes, or go straight to a project below.
+### Selected work
 
-### Side A / Creative
-
-- **[Ishara Studio](https://isharaastudio.com/)** — a design-studio website with animated sections, a filterable work archive, and case studies.
-- **[airn't](https://airn-t.vercel.app/)** — an interactive air-quality app that makes invisible data visible. [Source](https://github.com/anuragdey05/airn-t)
-
-### Side B / Technical
-
-- **[AUEC Voting Portal](https://github.com/anuragdey05/auec-voting-portal)** — a Django election application with transactional ballots, receipts, and audit records.
-- **[SPAN Margin Calculator](https://github.com/anuragdey05/span-margin-calculator)** — derivatives-portfolio risk calculations using SPAN files and Redis price data. Bullero Capital internship, 2025.
-- **[ArtEmis Image Captioning](https://github.com/anuragdey05/Image-Caption-Generator)** — CNN–LSTM and Vision Transformer approaches to captioning paintings, implemented in PyTorch.
-
----
-
-<sub>Physical media, thoughtful details, things worth keeping.</sub>
-
-[All repositories](https://github.com/anuragdey05?tab=repositories) · [Still version of the tape](./assets/side-a-still.png)
+- **[Ishara Studio](https://isharaastudio.com/)** — creative web and interaction design.
+- **[airn't](https://github.com/anuragdey05/airn-t)** — environmental data meets visual storytelling. [Live](https://airn-t.vercel.app/)
+- **[SPAN Margin Calculator](https://github.com/anuragdey05/span-margin-calculator)** — finance meets engineering. Bullero Capital internship, 2025.
+- **[AUEC Voting Portal](https://github.com/anuragdey05/auec-voting-portal)** — election systems and auditability.
+- **[ArtEmis Captioning](https://github.com/anuragdey05/Image-Caption-Generator)** — machine learning meets art.
