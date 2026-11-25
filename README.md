@@ -1,21 +1,33 @@
-<p align="center">
-  <img src="./assets/cassette.svg" width="100%" alt="Anurag Dey — a personal recording. A cream and faded red cassette, labelled Side A." />
-</p>
+# Anurag Dey
 
-A place for things I make, try, and keep.
+I build web applications, interfaces, and machine learning projects.
 
-I like physical media, thoughtful details, and things with a point of view.
+<a href="./CREATIVE.md">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/side-a-still.png" />
+    <img src="./assets/side-a.gif" width="760" alt="Side A: creative work. An animated ASCII cassette cycles through Ishara Studio and airn't. Open the creative side." />
+  </picture>
+</a>
 
-### Side A · Recorded here
+<pre>
+  [ <a href="./CREATIVE.md">SIDE A / CREATIVE</a> ]       [ <a href="./TECHNICAL.md">FLIP TO SIDE B / TECHNICAL</a> ]
+</pre>
 
-[Repositories](https://github.com/anuragdey05?tab=repositories) — the source material.
+Two sides of the same work. Open a side for the notes, or go straight to a project below.
 
-<!-- Add selected public projects here when ready. Use real names and a short note about why each exists. -->
+### Side A / Creative
 
-### Side B · Worth keeping
+- **[Ishara Studio](https://isharaastudio.com/)** — a design-studio website with animated sections, a filterable work archive, and case studies.
+- **[airn't](https://airn-t.vercel.app/)** — an interactive air-quality app that makes invisible data visible. [Source](https://github.com/anuragdey05/airn-t)
 
-[Stars](https://github.com/anuragdey05?tab=stars) — things worth coming back to.
+### Side B / Technical
+
+- **[AUEC Voting Portal](https://github.com/anuragdey05/auec-voting-portal)** — a Django election application with transactional ballots, receipts, and audit records.
+- **[SPAN Margin Calculator](https://github.com/anuragdey05/span-margin-calculator)** — derivatives-portfolio risk calculations using SPAN files and Redis price data. Bullero Capital internship, 2025.
+- **[ArtEmis Image Captioning](https://github.com/anuragdey05/Image-Caption-Generator)** — CNN–LSTM and Vision Transformer approaches to captioning paintings, implemented in PyTorch.
 
 ---
 
-<sub>Thanks for listening.</sub>
+<sub>Physical media, thoughtful details, things worth keeping.</sub>
+
+[All repositories](https://github.com/anuragdey05?tab=repositories) · [Still version of the tape](./assets/side-a-still.png)
